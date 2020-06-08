@@ -1,0 +1,19 @@
+Typ metody,Funkcja,Ilość iteracji,Ilość wywołań, Czy działa
+falsi,f1,0,3,tak
+falsi,f2,5,7,tak
+falsi,f3,0,3,tak
+falsi,f4,6,8,tak
+falsi,f5,0,2,tak
+falsi,f6,0,3,tak
+newton,f1,0,1,tak
+newton,f2,4,9,tak
+newton,f3,0,1,tak
+newton,f4,5,11,tak
+newton,f5,26,53,nie
+newton,f6,0,1,tak
+steffensen,f1,0,2,tak
+steffensen,f2,5,9,tak
+steffensen,f3,0,2,tak
+steffensen,f4,6,10,tak
+steffensen,f5,28,50,nie
+steffensen,f6,0,2,tak
